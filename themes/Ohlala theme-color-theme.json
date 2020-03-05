@@ -1626,43 +1626,6 @@
     // KEYWORDS
     //////////////////////////////    
     {
-			"name": "",
-			"scope": [
-				"",
-				""
-			],
-			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#51c7da"
-			}
-    },
-    {
-			"name": "",
-			"scope": [
-				"",
-				""
-			],
-			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#51c7da"
-			}
-    },
-    {
-			"name": "",
-			"scope": [
-				"",
-				""
-			],
-			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#51c7da"
-			}
-    },
-
-    //////////////////////////////
-    // 
-    //////////////////////////////
-    {
 			"name": "Keywords",
 			"scope": [
 				"keyword",
