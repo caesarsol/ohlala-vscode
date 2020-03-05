@@ -2013,7 +2013,7 @@
     // In this case, this colors "$?", "$@", "$*", "$1", etc...
     // ----------------------------------------
     {
-			"name": "Shell variables prefixed with "$" (edge case)",
+			"name": "Shell variables prefixed with '$' (edge case)",
 			"scope": [
 				"source.shell variable.other",
 			],
