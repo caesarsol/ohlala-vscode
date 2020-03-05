@@ -10,7 +10,7 @@
 		// An extra border around active elements to separate them from others for greater contrast.
 		// "contrastActiveBorder": "#ff0000",
 		// An extra border around elements to separate them from others for greater contrast.
-		"contrastBorder": "#020202",
+		// "contrastBorder": "#020202",
 
     //////////////////////////////
     // BASE COLORS 
@@ -128,13 +128,13 @@
     // SCROLLBAR CONTROL
     //////////////////////////////
     // Scrollbar slider shadow to indicate that the view is scrolled.
-    // "scrollbar.shadow": "#444a4b",
+    // "scrollbar.shadow": "#ffffff27",
     // Scrollbar slider background color when clicked on.
     // "scrollbarSlider.activeBackground": "#a83fe8",
     // Scrollbar slider background color.
-    // "scrollbarSlider.background": "#aa1d02",
+    "scrollbarSlider.background": "#7676760D",
     // Scrollbar slider background color when hovering.
-    // "scrollbarSlider.hoverBackground": "#239b42",
+    "scrollbarSlider.hoverBackground": "#7676761A",
 
     //////////////////////////////
     // BADGE
@@ -203,7 +203,7 @@
     // and allows fast switching between views of the Side Bar.
     //////////////////////////////
     // Activity Bar background color.
-    "activityBar.background": "#353535",
+    "activityBar.background": "#0f0f0f",
     // Drag and drop feedback color for the Activity Bar items.
     // "activityBar.dropBackground": "#f5b88b",
     // Activity Bar foreground color (for example used for the icons).
@@ -228,7 +228,7 @@
     // The Side Bar contains views like the Explorer and Search.
     //////////////////////////////
     // Side Bar background color.
-    "sideBar.background": "#0f0f0f",
+    "sideBar.background": "#1c1c1c",
     // Side Bar foreground color. The Side Bar is the container for views like Explorer and Search.
     // "sideBar.foreground": "#a7a7a7",
     // Side Bar border color on the side separating the editor.
@@ -271,13 +271,13 @@
     // Multiple Tabs can be opened in one editor group.
     //////////////////////////////
     // Color to separate multiple editor groups from each other
-    "editorGroup.border": "#AF98E6",
+    "editorGroup.border": "#0f0f0f",
     // Background color when dragging editors around    
-    "editorGroup.dropBackground": "#1c1c1c70",
+    "editorGroup.dropBackground": "#42424249",
     // Background color of the editor group title header when Tabs are disabled (set "workbench.editor.showTabs": false)    
     // "editorGroupHeader.noTabsBackground": "#09e1e6",
     // Background color of the Tabs container    
-    "editorGroupHeader.tabsBackground": "#020202",
+    "editorGroupHeader.tabsBackground": "#282828",
     // Border color of the editor group title header when tabs are enabled    
     // "editorGroupHeader.tabsBorder": "#e0e0e0",
     // Background color of an empty editor group    
@@ -291,17 +291,17 @@
     // Active Tab foreground color in an active group    
     "tab.activeForeground": "#a7a7a7",
     // Border to separate Tabs from each other    
-    "tab.border": "#020202",
+    "tab.border": "#1c1c1c",
     // Bottom border for the active tab    
     "tab.activeBorder": "#FF508C",
     // Bottom border for the active tab in an inactive editor group    
-    // "tab.unfocusedActiveBorder": "#1d1d1d",
+    "tab.unfocusedActiveBorder": "#a7a7a7",
     // Top border for the active tab    
     // "tab.activeBorderTop": "#fa4282",
     // Top border for the active tab in an inactive editor group
-    "tab.unfocusedActiveBorderTop": "#1d1d1d",
+    // "tab.unfocusedActiveBorderTop": "#e20f0f",
     // Inactive Tab background color    
-    "tab.inactiveBackground": "#0f0f0f",
+    "tab.inactiveBackground": "#1c1c1c",
     // Inactive Tab foreground color in an active group    
     "tab.inactiveForeground": "#767676",
     // Active tab foreground color in an inactive editor group    
@@ -309,11 +309,11 @@
     // Inactive tab foreground color in an inactive editor group    
     // "tab.unfocusedInactiveForeground": "#a7a7a7",
     // Tab background color when hovering
-    // "tab.hoverBackground": "#e23276",
+    "tab.hoverBackground": "#1c1c1cd9",
     // Tab background color in an unfocused group when hovering
-    // "tab.unfocusedHoverBackground": "#5c6ce8",
+    "tab.unfocusedHoverBackground": "#1c1c1cd9",
     // Border to highlight tabs when hovering
-    // "tab.hoverBorder": "#f81c88",
+    "tab.hoverBorder": "#1c1c1c8c",
     // Border to highlight tabs in an unfocused group when hovering
     // "tab.unfocusedHoverBorder": "#f81c88",
     // Border on the top of modified (dirty) active tabs in an active group    
@@ -361,7 +361,7 @@
     // Color for regions with the same content as the selection. The color must not be opaque so as not to hide underlying decorations.
     "editor.selectionHighlightBackground": "#282828",
     // Border color for regions with the same content as the selection.
-    // "editor.selectionHighlightBorder": "#fa4282b9",
+    "editor.selectionHighlightBorder": "#FF508C8C",
 
     // Word highlight colors are visible when the cursor is inside a symbol or a word. 
     // Depending on the language support available for the file type, 
@@ -492,9 +492,9 @@
 		// ----------------------------------------
 
     // Color of the overview ruler border.
-    "editorOverviewRuler.border": "#020202",
+    "editorOverviewRuler.border": "#1c1c1c",
     // Overview ruler marker color for find matches. The color must not be opaque so as not to hide underlying decorations.
-    // "editorOverviewRuler.findMatchForeground": "#bf88fa",
+    "editorOverviewRuler.findMatchForeground": "#a7a7a71D",
     // Overview ruler marker color for highlighted ranges, like by the Quick Open, Symbol in File and Find features. The color must not be opaque so as not to hide underlying decorations.
     // "editorOverviewRuler.rangeHighlightForeground": "#2ff88d",
     // Overview ruler marker color for selection highlights. The color must not be opaque so as not to hide underlying decorations.
@@ -558,7 +558,7 @@
 		// ----------------------------------------
 
     // Background color of the editor gutter. The gutter contains the glyph margins and the line numbers.
-    // "editorGutter.background": "#1d1d1d",
+    "editorGutter.background": "#1c1c1c",
     // Editor gutter background color for lines that are modified.
 		"editorGutter.modifiedBackground": "#51c7daaa",
     // Editor gutter background color for lines that are added.
@@ -644,7 +644,7 @@
     // Background color of the peek view editor.
     "peekViewEditor.background": "#1c1c1c",
     // Background color of the gutter in the peek view editor.
-    // "peekViewEditorGutter.background": "#28069e",
+    // "peekViewEditorGutter.background": "#ffd900",
     // Match highlight color in the peek view editor.
     "peekViewEditor.matchHighlightBackground": "#f9d819bb",
     // Match highlight border color in the peek view editor.
@@ -700,7 +700,7 @@
     // Panel background color.
     "panel.background": "#1c1c1c",
     // Panel border color to separate the panel from the editor.
-    "panel.border": "#AF98E6",
+    "panel.border": "#0f0f0f",
     // Drag and drop feedback color for the panel title items. The color should have transparency so that the panel entries can still shine through.
     // "panel.dropBackground": "#765627",
     // Border color for the active panel title.
@@ -723,7 +723,7 @@
     // The Status Bar is shown in the bottom of the workbench.
     //////////////////////////////
     // Standard Status Bar background color.
-    "statusBar.background": "#020202",
+    "statusBar.background": "#0f0f0f",
     // Status Bar foreground color.
     "statusBar.foreground": "#a7a7a7",
     // Status Bar border color separating the Status Bar and editor.
@@ -999,7 +999,7 @@
     // Color of breadcrumb items.
     "breadcrumb.foreground": "#767676",
     // Background color of breadcrumb items.
-    "breadcrumb.background": "#0f0f0f",
+    "breadcrumb.background": "#1c1c1c",
     // Color of focused breadcrumb items.
     "breadcrumb.focusForeground": "#a7a7a7",
     // Color of selected breadcrumb items.
@@ -1179,7 +1179,7 @@
       "name": "Invalid",
       "scope": [
         "invalid",
-        // "invalid.illegal"
+        "invalid.illegal"
       ],
       "settings": {
         "fontStyle": "underline italic",
