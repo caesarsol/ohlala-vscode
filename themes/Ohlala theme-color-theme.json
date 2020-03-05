@@ -228,7 +228,7 @@
     // The Side Bar contains views like the Explorer and Search.
     //////////////////////////////
     // Side Bar background color.
-    "sideBar.background": "#0f0f0f", // "#161616",
+    "sideBar.background": "#0f0f0f",
     // Side Bar foreground color. The Side Bar is the container for views like Explorer and Search.
     // "sideBar.foreground": "#a7a7a7",
     // Side Bar border color on the side separating the editor.
@@ -238,11 +238,11 @@
     // Side Bar title foreground color.
     "sideBarTitle.foreground": "#a7a7a7",
     // Side Bar section header background color.
-    "sideBarSectionHeader.background": "#1c1c1c", // "#161616",
+    "sideBarSectionHeader.background": "#1c1c1c",
     // Side Bar section header foreground color.
     // "sideBarSectionHeader.foreground": "#a7a7a7",
     // Side bar section header border color.
-    "sideBarSectionHeader.border": "#020202", // "#161616",
+    "sideBarSectionHeader.border": "#020202",
 
     //////////////////////////////
     // MINIMAP
@@ -271,13 +271,13 @@
     // Multiple Tabs can be opened in one editor group.
     //////////////////////////////
     // Color to separate multiple editor groups from each other
-    "editorGroup.border": "#AF98E6", // "#0e0e0e",
+    "editorGroup.border": "#AF98E6",
     // Background color when dragging editors around    
-    "editorGroup.dropBackground": "#1c1c1c70", // "#212121dc",
+    "editorGroup.dropBackground": "#1c1c1c70",
     // Background color of the editor group title header when Tabs are disabled (set "workbench.editor.showTabs": false)    
     // "editorGroupHeader.noTabsBackground": "#09e1e6",
     // Background color of the Tabs container    
-    "editorGroupHeader.tabsBackground": "#020202", // "#161616",
+    "editorGroupHeader.tabsBackground": "#020202",
     // Border color of the editor group title header when tabs are enabled    
     // "editorGroupHeader.tabsBorder": "#e0e0e0",
     // Background color of an empty editor group    
@@ -285,11 +285,11 @@
     // Border color of an empty editor group that is focused    
     // "editorGroup.focusedEmptyBorder": "#dcaa73",
     // Active Tab background color in an active group    
-    "tab.activeBackground": "#1c1c1c", // "#1d1d1d",
+    "tab.activeBackground": "#1c1c1c",
     // Active Tab background color in an inactive editor group    
     // "tab.unfocusedActiveBackground": "#328ad7",
     // Active Tab foreground color in an active group    
-    "tab.activeForeground": "#a7a7a7", // "#fa4282",
+    "tab.activeForeground": "#a7a7a7",
     // Border to separate Tabs from each other    
     "tab.border": "#020202",
     // Bottom border for the active tab    
@@ -303,7 +303,7 @@
     // Inactive Tab background color    
     "tab.inactiveBackground": "#0f0f0f",
     // Inactive Tab foreground color in an active group    
-    "tab.inactiveForeground": "#767676", // "#a7a7a7",
+    "tab.inactiveForeground": "#767676",
     // Active tab foreground color in an inactive editor group    
     // "tab.unfocusedActiveForeground": "#a7a7a7",
     // Inactive tab foreground color in an inactive editor group    
@@ -336,11 +336,11 @@
     // All other editor colors are listed here:
     //////////////////////////////
     // Editor background color.
-    "editor.background": "#1c1c1c", // "#1d1d1d",
+    "editor.background": "#1c1c1c",
     // Editor default foreground color.
     "editor.foreground": "#a7a7a7",
      // Color of editor line numbers.
-    "editorLineNumber.foreground": "#767676", // "#545454",
+    "editorLineNumber.foreground": "#767676",
     // Color of the active editor line number.
     // "editorLineNumber.activeForeground": "#5c8535",
     // The background color of the editor cursor. Allows customizing the color of a character overlapped by a block cursor.
@@ -353,13 +353,13 @@
 		// ----------------------------------------
 
     // Color of the editor selection.
-    "editor.selectionBackground": "#424242", // "#3ddee063",
+    "editor.selectionBackground": "#424242",
     // Color of the selected text for high contrast.
     // "editor.selectionForeground": "#d6355c",
     // Color of the selection in an inactive editor. The color must not be opaque so as not to hide underlying decorations.
     // "editor.inactiveSelectionBackground": "#3ddde027",
     // Color for regions with the same content as the selection. The color must not be opaque so as not to hide underlying decorations.
-    "editor.selectionHighlightBackground": "#282828", // "#1d1d1d",
+    "editor.selectionHighlightBackground": "#282828",
     // Border color for regions with the same content as the selection.
     // "editor.selectionHighlightBorder": "#fa4282b9",
 
@@ -370,7 +370,7 @@
 		// ----------------------------------------
 
     // Background color of a symbol during read-access, for example when reading a variable. The color must not be opaque so as not to hide underlying decorations.
-    "editor.wordHighlightBackground": "#51c7da80", // "#80808080",
+    "editor.wordHighlightBackground": "#51c7da80",
     // Border color of a symbol during read-access, for example when reading a variable.
     // "editor.wordHighlightBorder": "#d52b2d",
     // Background color of a symbol during write-access, for example when writing to a variable. The color must not be opaque so as not to hide underlying decorations.
@@ -384,7 +384,7 @@
     // Color of the current search match.
     "editor.findMatchBackground": "#FFB26C80",
     // Color of the other search matches. The color must not be opaque so as not to hide underlying decorations.
-    "editor.findMatchHighlightBackground": "#f6f6f6a9", // "#3ddde0a9",
+    "editor.findMatchHighlightBackground": "#f6f6f6a9",
     // Color the range limiting the search (Enable 'Find in Selection' in the find widget). The color must not be opaque so as not to hide underlying decorations.
     "editor.findRangeHighlightBackground": "#1c1c1c75",
     // Border color of the current search match.
@@ -407,7 +407,7 @@
 
     // The hover highlight is shown behind the symbol for which a hover is shown.
     // Highlight below the word for which a hover is shown. The color must not be opaque so as not to hide underlying decorations.
-    "editor.hoverHighlightBackground": "#020202", // "#3f3f3f",
+    "editor.hoverHighlightBackground": "#020202",
 
     // The current line is typically shown as either background highlight or a border (not both).
 		// ----------------------------------------
@@ -415,19 +415,19 @@
     // Background color for the highlight of line at the cursor position.
     // "editor.lineHighlightBackground": "#333333",
     // Background color for the border around the line at the cursor position.
-    "editor.lineHighlightBorder": "#424242", // "#424242",
+    "editor.lineHighlightBorder": "#424242",
 
     // The link color is visible when clicking on a link.
 		// ----------------------------------------
 
     // Color of active links.
-    "editorLink.activeForeground": "#51c7da", // "#00a7aa", 
+    "editorLink.activeForeground": "#51c7da", 
 
     // The range highlight is visible when selecting a search result.
 		// ----------------------------------------
 
     // Background color of highlighted ranges, used by Quick Open, Symbol in File and Find features. The color must not be opaque so as not to hide underlying decorations.
-    "editor.rangeHighlightBackground": "#AF98E6a9",
+    "editor.rangeHighlightBackground": "#9469f3a9",
     // Background color of the border around highlighted ranges.
     // "editor.rangeHighlightBorder": "#309849",
 
@@ -443,7 +443,7 @@
 		// ----------------------------------------
 
     // Color of whitespace characters in the editor.
-    "editorWhitespace.foreground": "#282828", // "#a7a7a7",
+    "editorWhitespace.foreground": "#282828",
 
     // To see the editor indent guides, set "editor.renderIndentGuides": true.
 		// ----------------------------------------
@@ -573,11 +573,11 @@
     // For coloring inserted and removed text, use either a background or a border color but not both.
     //////////////////////////////  
     // Background color for text that got inserted. The color must not be opaque so as not to hide underlying decorations.
-    "diffEditor.insertedTextBackground": "#c0f196cc", // "#0c7e9d25",
+    "diffEditor.insertedTextBackground": "#c0f196cc",
     // Outline color for the text that got inserted.
     // "diffEditor.insertedTextBorder": "#009901",
     // Background color for text that got removed. The color must not be opaque so as not to hide underlying decorations.
-    "diffEditor.removedTextBackground": "#FF799Dcc", // "#fa428225",
+    "diffEditor.removedTextBackground": "#FF799Dcc",
     // Outline color for text that got removed.
 		// "diffEditor.removedTextBorder": "#b579b2",
     // Border color between the two text editors.
@@ -591,7 +591,7 @@
     // Foreground color of editor widgets, such as find/replace.
     // "editorWidget.foreground": "#a7a7a7",
     // Background color of editor widgets, such as Find/Replace.
-    "editorWidget.background": "#0f0f0f", // "#242424",
+    "editorWidget.background": "#0f0f0f",
     // Border color of the editor widget unless the widget does not contain a border or defines its own border color.
     // "editorWidget.border": "#f80a57",
     // Border color of the resize bar of editor widgets. The color is only used if the widget chooses to have a resize border and if the color is not overridden by a widget.
@@ -723,9 +723,9 @@
     // The Status Bar is shown in the bottom of the workbench.
     //////////////////////////////
     // Standard Status Bar background color.
-    "statusBar.background": "#020202", // "#536d64",
+    "statusBar.background": "#020202",
     // Status Bar foreground color.
-    "statusBar.foreground": "#a7a7a7", // "#f0f0f0",
+    "statusBar.foreground": "#a7a7a7",
     // Status Bar border color separating the Status Bar and editor.
     "statusBar.border": "#0e0e0e",
     // Status Bar background color when a program is being debugged.
@@ -844,7 +844,7 @@
     // EXTENSIONS
     //////////////////////////////
     // Extension view button foreground color (for example Install button).
-    "extensionButton.prominentForeground": "#a7a7a7", // "#dbdbdb",
+    "extensionButton.prominentForeground": "#a7a7a7",
     // Extension view button background color.
     "extensionButton.prominentBackground": "#C0F1966e",
     // Extension view button background hover color.
@@ -997,15 +997,15 @@
     // The theme colors for breadcrumbs navigation:
     //////////////////////////////
     // Color of breadcrumb items.
-    "breadcrumb.foreground": "#767676", // "#a5a5a5",
+    "breadcrumb.foreground": "#767676",
     // Background color of breadcrumb items.
-    "breadcrumb.background": "#0f0f0f", // "#1d1d1d",
+    "breadcrumb.background": "#0f0f0f",
     // Color of focused breadcrumb items.
-    "breadcrumb.focusForeground": "#a7a7a7", // "#0b7c73",
+    "breadcrumb.focusForeground": "#a7a7a7",
     // Color of selected breadcrumb items.
-    "breadcrumb.activeSelectionForeground": "#a7a7a7", // "#0b7c73",
+    "breadcrumb.activeSelectionForeground": "#a7a7a7",
     // Background color of breadcrumb item picker.
-    "breadcrumbPicker.background": "#020202", // "#2c2c2c",
+    "breadcrumbPicker.background": "#020202",
 
     //////////////////////////////
     // SNIPPETS
