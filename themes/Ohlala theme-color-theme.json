@@ -22,7 +22,7 @@
     // Shadow color of widgets such as Find/Replace inside the editor.
     // "widget.shadow": "#c71d23",
     // Background color of text selections in the workbench (for input fields or text areas, does not apply to selections within the editor and the terminal).
-    "selection.background": "#AF98E6",
+    "selection.background": "#9b6dff",
     // Foreground color for description text providing additional information, for example for a label.
     // "descriptionForeground": "#cf36f7",
     // Overall foreground color for error messages (this color is only used if not overridden by a component).
@@ -104,7 +104,7 @@
     // Background color of activated options in input fields.
     // "inputOption.activeBackground": "#0bee1b",
     // Border color of activated options in input fields.
-    "inputOption.activeBorder": "#AF98E6",
+    "inputOption.activeBorder": "#9b6dff",
     // Input validation background color for error severity.
     // "inputValidation.errorBackground": "#218cd0",
     // Input validation foreground color for error severity.
@@ -167,7 +167,7 @@
     // List/Tree foreground color for the focused item when the list/tree is active. An active list/tree has keyboard focus, an inactive does not.
     // "list.focusForeground": "#572892",
     // List/Tree foreground color of the match highlights when searching inside the list/tree.
-    "list.highlightForeground": "#51c7da",
+    "list.highlightForeground": "#00beff",
     // List/Tree background when hovering over items using the mouse.
     "list.hoverBackground": "#1c1c1c75",
     // List/Tree foreground when hovering over items using the mouse.
@@ -370,7 +370,7 @@
 		// ----------------------------------------
 
     // Background color of a symbol during read-access, for example when reading a variable. The color must not be opaque so as not to hide underlying decorations.
-    "editor.wordHighlightBackground": "#51c7da80",
+    "editor.wordHighlightBackground": "#00beff80",
     // Border color of a symbol during read-access, for example when reading a variable.
     // "editor.wordHighlightBorder": "#d52b2d",
     // Background color of a symbol during write-access, for example when writing to a variable. The color must not be opaque so as not to hide underlying decorations.
@@ -421,7 +421,7 @@
 		// ----------------------------------------
 
     // Color of active links.
-    "editorLink.activeForeground": "#51c7da", 
+    "editorLink.activeForeground": "#00beff", 
 
     // The range highlight is visible when selecting a search result.
 		// ----------------------------------------
@@ -500,11 +500,11 @@
     // Overview ruler marker color for selection highlights. The color must not be opaque so as not to hide underlying decorations.
     "editorOverviewRuler.selectionHighlightForeground": "#FFB26C",
     // Overview ruler marker color for symbol highlights. The color must not be opaque so as not to hide underlying decorations.
-    "editorOverviewRuler.wordHighlightForeground": "#51c7da",
+    "editorOverviewRuler.wordHighlightForeground": "#00beff",
     // Overview ruler marker color for write-access symbol highlights. The color must not be opaque so as not to hide underlying decorations.
     "editorOverviewRuler.wordHighlightStrongForeground": "#C0F196",
     // Overview ruler marker color for modified content.
-    "editorOverviewRuler.modifiedForeground": "#51c7daa9",
+    "editorOverviewRuler.modifiedForeground": "#00beffa9",
     // Overview ruler marker color for added content.
     "editorOverviewRuler.addedForeground": "#C0F196a9",
     // Overview ruler marker color for deleted content.
@@ -514,7 +514,7 @@
     // Overview ruler marker color for warnings.
     "editorOverviewRuler.warningForeground": "#FFB26Ca9",
     // Overview ruler marker color for infos.
-    "editorOverviewRuler.infoForeground": "#51c7daa9",
+    "editorOverviewRuler.infoForeground": "#00beffa9",
     // Overview ruler marker color for matching brackets.
     // "editorOverviewRuler.bracketMatchForeground": "#7df7e5",
 
@@ -528,7 +528,7 @@
     // Border color of error boxes in the editor.
     // "editorError.border": "#81a430",
     // Foreground color of warning squiggles in the editor.
-    "editorWarning.foreground": "#51c7da",
+    "editorWarning.foreground": "#00beff",
     // Border color of warning boxes in the editor.
     // "editorWarning.border": "#f808c4",
     // Foreground color of info squiggles in the editor.
@@ -560,7 +560,7 @@
     // Background color of the editor gutter. The gutter contains the glyph margins and the line numbers.
     "editorGutter.background": "#1c1c1c",
     // Editor gutter background color for lines that are modified.
-		"editorGutter.modifiedBackground": "#51c7daaa",
+		"editorGutter.modifiedBackground": "#00beffaa",
     // Editor gutter background color for lines that are added.
 		"editorGutter.addedBackground": "#C0F196aa",
     // Editor gutter background color for lines that are deleted.
@@ -677,7 +677,7 @@
     // Current content background in inline merge conflicts. The color must not be opaque so as not to hide underlying decorations.
     // "merge.currentContentBackground": "#aaacc1",
     // Incoming header background in inline merge conflicts. The color must not be opaque so as not to hide underlying decorations.
-    "merge.incomingHeaderBackground": "#AF98E6cc",
+    "merge.incomingHeaderBackground": "#9b6dffcc",
     // Incoming content background in inline merge conflicts. The color must not be opaque so as not to hide underlying decorations.
     // "merge.incomingContentBackground": "#d67747",
     // Border color on headers and the splitter in inline merge conflicts.
@@ -689,7 +689,7 @@
     // Current overview ruler foreground for inline merge conflicts.
     "editorOverviewRuler.currentContentForeground": "#C0F196",
     // Incoming overview ruler foreground for inline merge conflicts.
-    "editorOverviewRuler.incomingContentForeground": "#AF98E6",
+    "editorOverviewRuler.incomingContentForeground": "#9b6dff",
     // Common ancestor overview ruler foreground for inline merge conflicts.
     // "editorOverviewRuler.commonContentForeground": "#5b3ca3",
 
@@ -751,7 +751,7 @@
     // Status Bar prominent items background color when hovering.
     "statusBarItem.prominentHoverBackground": "#FFB26C",
     // Background color for the remote indicator on the status bar.
-    "statusBarItem.remoteBackground": "#AF98E6",
+    "statusBarItem.remoteBackground": "#9b6dff",
     // Foreground color for the remote indicator on the status bar.
     "statusBarItem.remoteForeground": "#a7a7a7",
     
@@ -835,7 +835,7 @@
     "notification.buttonHoverBackground": "#1c1c1c75",
     "notification.errorBackground": "#FF799D",
     "notification.errorForeground": "#a7a7a7",
-    "notification.infoBackground": "#51c7da",
+    "notification.infoBackground": "#00beff",
     "notification.infoForeground": "#1c1c1c",
     "notification.warningBackground": "#FFB26C",
     "notification.warningForeground": "#1c1c1c",
@@ -858,9 +858,9 @@
     // QUICK PICKE
     //////////////////////////////
     // Quick picker (Quick Open) color for grouping borders.
-    "pickerGroup.border": "#AF98E6",
+    "pickerGroup.border": "#9b6dff",
     // Quick picker (Quick Open) color for grouping labels.
-    "pickerGroup.foreground": "#51c7da",
+    "pickerGroup.foreground": "#00beff",
     // Quick input background color. The quick input widget is the container for views like the color theme picker.
     // "quickInput.background": "#65f042",
     // Quick input foreground color. The quick input widget is the container for views like the color theme picker.
@@ -878,7 +878,7 @@
     // 'Black' ANSI color in the terminal.
     "terminal.ansiBlack": "#0f0f0f",
     // 'Blue' ANSI color in the terminal.
-    "terminal.ansiBlue": "#AF98E6",
+    "terminal.ansiBlue": "#9b6dff",
     // 'BrightBlack' ANSI color in the terminal.
     "terminal.ansiBrightBlack": "#767676",
     // 'BrightBlue' ANSI color in the terminal.
@@ -896,7 +896,7 @@
     // 'BrightYellow' ANSI color in the terminal.
     "terminal.ansiBrightYellow": "#e3cf65",
     // 'Cyan' ANSI color in the terminal.
-    "terminal.ansiCyan": "#51c7da",
+    "terminal.ansiCyan": "#00beff",
     // 'Green' ANSI color in the terminal.
     "terminal.ansiGreen": "#C0F196",
     // 'Magenta' ANSI color in the terminal.
@@ -944,7 +944,7 @@
     // Color for added Git resources. Used for file labels and the SCM viewlet.
     // "gitDecoration.addedResourceForeground": "#d2b9cc",
     // Color for modified Git resources. Used for file labels and the SCM viewlet.
-    "gitDecoration.modifiedResourceForeground": "#51c7da",
+    "gitDecoration.modifiedResourceForeground": "#00beff",
     // Color for deleted Git resources. Used for file labels and the SCM viewlet.
     "gitDecoration.deletedResourceForeground": "#FF799D",
     // Color for untracked Git resources. Used for file labels and the SCM viewlet.
@@ -1235,7 +1235,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#AF98E6"
+				"foreground": "#9b6dff"
 			}
     },
     {
@@ -1256,7 +1256,7 @@
         "punctuation.definition.link.restructuredtext"
 			],
 			"settings": {
-				"foreground": "#51c7da"
+				"foreground": "#00beff"
 			}
     },
     {
@@ -1276,7 +1276,7 @@
         "markup.underline.link.image",
 			],
 			"settings": {
-				"foreground": "#51c7da"
+				"foreground": "#00beff"
 			}
     },
     {
@@ -1328,7 +1328,7 @@
         "punctuation.definition.constant.restructuredtext",
 			],
 			"settings": {
-				"foreground": "#AF98E6"
+				"foreground": "#9b6dff"
 			}
     },
     {
@@ -1338,7 +1338,7 @@
         "markup.heading.markdown punctuation.definition.string.end",
 			],
 			"settings": {
-				"foreground": "#AF98E6"
+				"foreground": "#9b6dff"
 			}
     },
     {
@@ -1372,7 +1372,7 @@
 			],
 			"settings": {
         "fontStyle": "normal",
-				"foreground": "#51c7da"
+				"foreground": "#00beff"
 			}
     },
     {
@@ -1387,7 +1387,7 @@
 			],
 			"settings": {
         "fontStyle": "italic",
-				"foreground": "#AF98E6"
+				"foreground": "#9b6dff"
 			}
     },
     {
@@ -1397,7 +1397,7 @@
 			],
 			"settings": {
         "fontStyle": "italic",
-				"foreground": "#51c7da"
+				"foreground": "#00beff"
 			}
     },
 
@@ -1434,7 +1434,7 @@
 			],
 			"settings": {
         "fontStyle": "italic",
-				"foreground": "#51c7da"
+				"foreground": "#00beff"
 			}
     },
     {
@@ -1443,7 +1443,7 @@
         "comment.block.documentation entity.name.type punctuation.definition.bracket",
 			],
 			"settings": {
-				"foreground": "#51c7da"
+				"foreground": "#00beff"
 			}
     },
     {
@@ -1467,7 +1467,7 @@
         "variable.other.constant",
 			],
 			"settings": {
-				"foreground": "#AF98E6"
+				"foreground": "#9b6dff"
 			}
     },
     {
@@ -1532,7 +1532,7 @@
         "keyword.operator.function.infix",
 			],
 			"settings": {
-				"foreground": "#C0F196"
+				"foreground": "#00beff"
 			}
     },
     {
@@ -1632,7 +1632,7 @@
 				"punctuation.definition.keyword"
 			],
 			"settings": {
-				"foreground": "#FF508C"
+				"foreground": "#9b6dff"
 			}
     },    
     {
@@ -1665,7 +1665,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#51c7da"
+				"foreground": "#00beff"
 			}
     },    
     {
@@ -1677,7 +1677,7 @@
 			],
 			"settings": {
 				"fontStyle": "regular",
-				"foreground": "#AF98E6"
+				"foreground": "#9b6dff"
 			}
     },    
     {
@@ -1747,7 +1747,7 @@
         "string.template punctuation.accessor",
 			],
 			"settings": {
-        "foreground": "#a7a7a7"
+        "foreground": "#ffffff"
 			}
     },    
     {
@@ -1782,7 +1782,7 @@
         "variable.other.key.toml"
 			],
 			"settings": {
-				"foreground": "#51c7da"
+				"foreground": "#00beff"
 			}
     },    
     {
@@ -1847,7 +1847,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#51c7da"
+				"foreground": "#00beff"
 			}
     },    
     {
@@ -1885,7 +1885,7 @@
 				"variable.other.constant.tsx", // Fixes incorrect highlighting of pseudo-constants in tsx
 			],
 			"settings": {
-				"foreground": "#a7a7a7"
+				"foreground": "#ffffff"
 			}
     },    
     {
@@ -1909,7 +1909,7 @@
 			],
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#a7a7a7"
+				"foreground": "#ffffff"
 			}
     },    
 
@@ -1934,7 +1934,7 @@
 				"meta.selectionset.graphql meta.arguments variable",
 			],
 			"settings": {
-				"foreground": "#a7a7a7"
+				"foreground": "#ffffff"
 			}
     },    
     {
@@ -1944,7 +1944,7 @@
 				"variable.fragment.graphql"
 			],
 			"settings": {
-				"foreground": "#51c7da"
+				"foreground": "#00beff"
 			}
     },    
 
@@ -1968,7 +1968,7 @@
         "constant.language.empty-list.haskell",
 			],
 			"settings": {
-				"foreground": "#a7a7a7"
+				"foreground": "#ffffff"
 			}
     },    
 
@@ -1981,7 +1981,7 @@
 				"source.shell variable.other",
 			],
 			"settings": {
-				"foreground": "#AF98E6"
+				"foreground": "#9b6dff"
 			}
     },    
 
@@ -1992,7 +1992,7 @@
 			],
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#AF98E6"
+				"foreground": "#9b6dff"
 			}
     },    
     {
@@ -2020,7 +2020,7 @@
 				"punctuation.definition.attribute-selector.begin.bracket.square.scss"
 			],
 			"settings": {
-				"foreground": "#a7a7a7"
+				"foreground": "#ffffff"
 			}
     },    
     {
@@ -2073,7 +2073,7 @@
 				"punctuation.definition.character-class.regexp",
 			],
 			"settings": {
-				"foreground": "#51c7da"
+				"foreground": "#00beff"
 			}
     },    
     {
