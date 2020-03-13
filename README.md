@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/ilariaventurini/ohlala-theme">
-    <img alt="ohlala-theme-logo" src="https://github.com/ilariaventurini/ohlala-theme/blob/master/assets/logo.png" height="100%" width="100%">
+    <img alt="ohlala-theme-logo" src="https://raw.githubusercontent.com/ilariaventurini/ohlala-theme/master/assets/logo.png" height="100%" width="100%">
   </a>
 </p>
 
@@ -13,11 +13,11 @@
 
 **JSX**
 
-![JSX](https://github.com/ilariaventurini/ohlala-theme/blob/master/assets/jsx.png)
+![JSX](https://raw.githubusercontent.com/ilariaventurini/ohlala-theme/master/assets/jsx.png)
 
 **Markdown, CSS, HTML, Typescript/Javascript**
 
-![Markdown, CSS, HTML, Typescript/Javascript](https://github.com/ilariaventurini/ohlala-theme/blob/master/assets/markdown%20css%20html%20typescript.png)
+![Markdown, CSS, HTML, Typescript/Javascript](https://raw.githubusercontent.com/ilariaventurini/ohlala-theme/master/assets/markdown%20css%20html%20typescript.png)
 
 ## 🌈 Color palette
 
@@ -25,18 +25,18 @@ Main colors:
 
 | Color    | Hex       | RGB             | HSL               | 🎨          |
 | :------- | :-------: | :-------------: | :---------------: | :---------: |
-| green    | `#37E7AC` | `55, 231, 172`  | `160°, 61%, 56%`  | ![green](https://github.com/ilariaventurini/ohlala-theme/blob/master/assets/green.png) |
-| cyan     | `#51FBDE` | `81, 251, 222`  | `170°, 51%, 65%`  | ![cyan](https://github.com/ilariaventurini/ohlala-theme/blob/master/assets/cyan.png) |
-| blue     | `#00B2FF` | `0, 178, 255`   | `198°, 100%, 50%` | ![blue](https://github.com/ilariaventurini/ohlala-theme/blob/master/assets/blue.png) |
-| purple   | `#9A89B4` | `154, 137, 180` | `264°, 13%, 62%`  | ![purple](https://github.com/ilariaventurini/ohlala-theme/blob/master/assets/purple.png) |
-| lavender | `#9B6DFF` | `155, 109, 255` | `259°, 39%, 71%`  | ![lavender](https://github.com/ilariaventurini/ohlala-theme/blob/master/assets/lavender.png) |
-| pink     | `#FF5CD3` | `255, 92, 211`  | `316°, 46%, 68%`  | ![pink](https://github.com/ilariaventurini/ohlala-theme/blob/master/assets/pink.png) |
-| rose     | `#FF6B9D` | `255, 107, 157` | `340°, 40%, 71%`  | ![rose](https://github.com/ilariaventurini/ohlala-theme/blob/master/assets/rose.png) |
-| orange   | `#FF9970` | `255, 153, 112` | `17°, 38%, 72%`   | ![orange](https://github.com/ilariaventurini/ohlala-theme/blob/master/assets/orange.png) |
-| yellow   | `#FED604` | `254, 214, 4`   | `50°, 97%, 51%`   | ![yellow](https://github.com/ilariaventurini/ohlala-theme/blob/master/assets/yellow.png) |
-| gray-01  | `#D9E0E8` | `217, 224, 232` | `212°, 2%, 88%`   | ![gray-01](https://github.com/ilariaventurini/ohlala-theme/blob/master/assets/gray-01.png) |
-| gray-02  | `#808182` | `128, 129, 130` | `210°, 0%, 51%`   | ![gray-02](https://github.com/ilariaventurini/ohlala-theme/blob/master/assets/gray-02.png) |
-| gray-09  | `#1F2330` | `31, 35, 48`    | `226°, 21%, 15%`  | ![gray-09](https://github.com/ilariaventurini/ohlala-theme/blob/master/assets/gray-09.png) |
+| green    | `#37E7AC` | `55, 231, 172`  | `160°, 61%, 56%`  | ![green](https://raw.githubusercontent.com/ilariaventurini/ohlala-theme/blob/master/assets/green.png) |
+| cyan     | `#51FBDE` | `81, 251, 222`  | `170°, 51%, 65%`  | ![cyan](https://raw.githubusercontent.com/ilariaventurini/ohlala-theme/blob/master/assets/cyan.png) |
+| blue     | `#00B2FF` | `0, 178, 255`   | `198°, 100%, 50%` | ![blue](https://raw.githubusercontent.com/ilariaventurini/ohlala-theme/blob/master/assets/blue.png) |
+| purple   | `#9A89B4` | `154, 137, 180` | `264°, 13%, 62%`  | ![purple](https://raw.githubusercontent.com/ilariaventurini/ohlala-theme/blob/master/assets/purple.png) |
+| lavender | `#9B6DFF` | `155, 109, 255` | `259°, 39%, 71%`  | ![lavender](https://raw.githubusercontent.com/ilariaventurini/ohlala-theme/blob/master/assets/lavender.png) |
+| pink     | `#FF5CD3` | `255, 92, 211`  | `316°, 46%, 68%`  | ![pink](https://raw.githubusercontent.com/ilariaventurini/ohlala-theme/blob/master/assets/pink.png) |
+| rose     | `#FF6B9D` | `255, 107, 157` | `340°, 40%, 71%`  | ![rose](https://raw.githubusercontent.com/ilariaventurini/ohlala-theme/blob/master/assets/rose.png) |
+| orange   | `#FF9970` | `255, 153, 112` | `17°, 38%, 72%`   | ![orange](https://raw.githubusercontent.com/ilariaventurini/ohlala-theme/blob/master/assets/orange.png) |
+| yellow   | `#FED604` | `254, 214, 4`   | `50°, 97%, 51%`   | ![yellow](https://raw.githubusercontent.com/ilariaventurini/ohlala-theme/blob/master/assets/yellow.png) |
+| gray-01  | `#D9E0E8` | `217, 224, 232` | `212°, 2%, 88%`   | ![gray-01](https://raw.githubusercontent.com/ilariaventurini/ohlala-theme/blob/master/assets/gray-01.png) |
+| gray-02  | `#808182` | `128, 129, 130` | `210°, 0%, 51%`   | ![gray-02](https://raw.githubusercontent.com/ilariaventurini/ohlala-theme/blob/master/assets/gray-02.png) |
+| gray-09  | `#1F2330` | `31, 35, 48`    | `226°, 21%, 15%`  | ![gray-09](https://raw.githubusercontent.com/ilariaventurini/ohlala-theme/blob/master/assets/gray-09.png) |
 
 ## ⚙️ Installation
 
