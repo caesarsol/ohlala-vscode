@@ -37,5 +37,6 @@
     "theme",
     "color-theme",
     "dark"
-  ]
+  ],
+  "private": false
 }
