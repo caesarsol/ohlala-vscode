@@ -38,6 +38,6 @@
     "color-theme",
     "dark"
   ],
-  "icon": "./assets/icon.png",
+  "icon": "assets/icon.png",
   "private": false
 }
