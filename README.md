@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/ilariaventurini/ohlala-theme">
-    <img alt="ohlala-theme-logo" src="https://github.com/ilariaventurini/ohlala-theme/blob/master/assets/logo.png" height="100%" width="100%">
+    <img alt="ohlala-theme-logo" src="https://github.com/ilariaventurini/ohlala-theme/blob/master/assets/logo.png" width="700px">
   </a>
 </p>
 
