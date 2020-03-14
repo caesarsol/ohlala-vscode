@@ -5,7 +5,19 @@
   </a>
 </p>
 
-<center>A fresh dark theme for VS Code.</center>
+<center>A fresh dark theme for VS Code.</center><br/>
+
+<p align="center">
+  <!-- npm -->
+  <a href="https://www.npmjs.com/package/ohlala-theme">
+    <img alt="npm" src="https://img.shields.io/badge/npm-ohlala-theme.svg?style=flat-square&logo=npm&labelColor=1F2330&color=9B6DFF">
+  </a>
+
+  <!-- marketplace version -->
+  <a href="https://marketplace.visualstudio.com/items?itemName=ilariaventurini.ohlala-theme&ssr=false#overview">
+    <img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/ilariaventurini.ohlala-theme.svg?maxAge=3600&style=flat-square&labelColor=1F2330&color=9B6DFF">
+  </a>
+</p>
 
 ***
 
