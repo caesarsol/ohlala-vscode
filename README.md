@@ -132,7 +132,7 @@ Some examples:
             "storage.type.ocaml",
           ],
           "settings": {
-            "fontStyle": "normal"
+            "fontStyle": ""
           }
         }
       ]
@@ -176,7 +176,7 @@ Some examples:
             "variable.other.key.toml",
           ],
           "settings": {
-            "fontStyle": "normal"
+            "fontStyle": ""
           }
         }
       ]
