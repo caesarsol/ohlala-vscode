@@ -184,6 +184,50 @@ Some examples:
     ```
   </details>
 
+- **Bold**: to remove also the bold style (except punctuation):
+
+  <details>
+    <summary>Code</summary>
+
+    ```JSON
+    "editor.tokenColorCustomizations": {
+      "textMateRules": [
+        {
+          "name": "No bold",
+          "scope": [
+            "comment",
+            "punctuation.definition.comment",
+            "unused.comment",
+            "wildcard.comment",
+            "entity.name.tag",
+            "punctuation.definition.tag.begin.html",
+            "meta.tag.structure.body.start.html",
+            "entity.other.attribute-name",
+            "entity.name.function",
+            "meta.method.groovy",
+            "support.function.any-method.lua",
+            "keyword.operator.function.infix",
+            "entity.name.variable.parameter",
+            "meta.at-rule.function variable",
+            "meta.at-rule.mixin variable",
+            "meta.function.arguments variable.other.php",
+            "meta.selectionset.graphql meta.arguments.graphql variable.arguments.graphql",
+            "variable.parameter",
+            "keyword.control.new",
+            "keyword.operator.new",
+            "entity.name.type.type-parameter",
+            "meta.indexer.mappedtype.declaration entity.name.type",
+            "meta.type.parameters entity.name.type",
+          ],
+          "settings": {
+            "fontStyle": ""
+          }
+        }
+      ]
+    }
+    ```
+    </details>
+
 To learn more about scopes, check out the [color theme documentation](https://code.visualstudio.com/api/references/theme-color).
 
 ## License
